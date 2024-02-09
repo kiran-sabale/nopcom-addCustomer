@@ -1,0 +1,396 @@
+1707275898349	geckodriver	INFO	Listening on 127.0.0.1:51470
+1707275901378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofilegl43Dx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707275901886	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707275902027	Marionette	INFO	Listening on port 51479
+WebDriver BiDi listening on ws://127.0.0.1:51471
+Read port: 51479
+1707275902261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:51471/devtools/browser/8332ea35-807d-4b3f-a026-a1cda85b24c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707275913960	Marionette	INFO	Stopped listening on port 51479
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1707275917496	geckodriver	INFO	Listening on 127.0.0.1:51520
+1707275920719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofileirZGCj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707275921042	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707275921152	Marionette	INFO	Listening on port 51528
+WebDriver BiDi listening on ws://127.0.0.1:51521
+Read port: 51528
+1707275921358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:51521/devtools/browser/77bb7e6d-99de-4e45-8d22-f2f6b48f8532
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707275930590	Marionette	INFO	Stopped listening on port 51528
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1707275934367	geckodriver	INFO	Listening on 127.0.0.1:51567
+1707275937388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofileDOchUS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707275937789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707275937913	Marionette	INFO	Listening on port 51575
+WebDriver BiDi listening on ws://127.0.0.1:51568
+Read port: 51575
+1707275938267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:51568/devtools/browser/aa750f48-4287-4173-8c94-c15ec71e3002
+1707275943170	Marionette	INFO	Stopped listening on port 51575
+Dynamically enable window occlusion 1
+1707275946761	geckodriver	INFO	Listening on 127.0.0.1:51603
+1707275949787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofilebY2yac"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707275950132	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707275950266	Marionette	INFO	Listening on port 51611
+WebDriver BiDi listening on ws://127.0.0.1:51604
+Read port: 51611
+1707275950476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:51604/devtools/browser/ccb2706b-8dba-4905-aae3-d699e0b06150
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707275965211	Marionette	INFO	Stopped listening on port 51611
+Dynamically enable window occlusion 1
+1707275968644	geckodriver	INFO	Listening on 127.0.0.1:51648
+1707275971663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofile1bzgnn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707275971974	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707275972083	Marionette	INFO	Listening on port 51656
+WebDriver BiDi listening on ws://127.0.0.1:51649
+Read port: 51656
+1707275972287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:51649/devtools/browser/de428e30-e5d3-41f9-9d33-0367cd83ca35
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707275985944	Marionette	INFO	Stopped listening on port 51656
+Dynamically enable window occlusion 1
+1707275989643	geckodriver	INFO	Listening on 127.0.0.1:51701
+1707275992681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofile4tl6pD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707275992995	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707275993113	Marionette	INFO	Listening on port 51709
+WebDriver BiDi listening on ws://127.0.0.1:51702
+Read port: 51709
+1707275993323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:51702/devtools/browser/8cfed1e8-79d3-4537-b9cb-e40f49de384e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707276006074	Marionette	INFO	Stopped listening on port 51709
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1707276009763	geckodriver	INFO	Listening on 127.0.0.1:51746
+1707276012800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofileHxJ53M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707276013121	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707276013236	Marionette	INFO	Listening on port 51754
+WebDriver BiDi listening on ws://127.0.0.1:51747
+Read port: 51754
+1707276013455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:51747/devtools/browser/0afa3842-5a25-4e3f-a1df-ad609d7f604d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707276026820	Marionette	INFO	Stopped listening on port 51754
+Dynamically enable window occlusion 1
+1707276030698	geckodriver	INFO	Listening on 127.0.0.1:51794
+1707276033731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofileX0dwOA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707276034031	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707276034141	Marionette	INFO	Listening on port 51802
+Read port: 51802
+WebDriver BiDi listening on ws://127.0.0.1:51795
+1707276034220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:51795/devtools/browser/1c1cc09a-55ae-445f-a45f-a939bb1a992e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707276048620	Marionette	INFO	Stopped listening on port 51802
+Dynamically enable window occlusion 1
+1707276052401	geckodriver	INFO	Listening on 127.0.0.1:51843
+1707276055471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofileuszV8Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707276055790	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707276055901	Marionette	INFO	Listening on port 51851
+WebDriver BiDi listening on ws://127.0.0.1:51844
+Read port: 51851
+1707276056118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:51844/devtools/browser/af65f5c7-785a-4a6f-aedd-e18ac822f3a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707276069594	Marionette	INFO	Stopped listening on port 51851
+Dynamically enable window occlusion 1
+1707297984781	geckodriver	INFO	Listening on 127.0.0.1:63335
+1707297987834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofileRrs3xA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707297988420	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707297988574	Marionette	INFO	Listening on port 63344
+WebDriver BiDi listening on ws://127.0.0.1:63336
+Read port: 63344
+1707297988872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:63336/devtools/browser/202fefdf-e5ca-4518-bfa7-833e48ddaa8e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707297998777	Marionette	INFO	Stopped listening on port 63344
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1707298002441	geckodriver	INFO	Listening on 127.0.0.1:63385
+1707298005474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63386" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofilecUogz9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707298005919	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707298006093	Marionette	INFO	Listening on port 63394
+WebDriver BiDi listening on ws://127.0.0.1:63386
+Read port: 63394
+1707298006350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:63386/devtools/browser/569e6ba2-cd00-43b2-a26e-87263ccb1068
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707298015081	Marionette	INFO	Stopped listening on port 63394
+Dynamically enable window occlusion 1
+1707298019405	geckodriver	INFO	Listening on 127.0.0.1:63436
+1707298022463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofileziyLYr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707298022938	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707298023116	Marionette	INFO	Listening on port 63445
+WebDriver BiDi listening on ws://127.0.0.1:63437
+Read port: 63445
+1707298023423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:63437/devtools/browser/fac8e571-d22a-492b-bf82-ce5ce4adcc30
+1707298028167	Marionette	INFO	Stopped listening on port 63445
+Dynamically enable window occlusion 1
+1707298031945	geckodriver	INFO	Listening on 127.0.0.1:63472
+1707298035009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofilehKH1vM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707298035384	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707298035526	Marionette	INFO	Listening on port 63481
+Read port: 63481
+WebDriver BiDi listening on ws://127.0.0.1:63473
+1707298035618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:63473/devtools/browser/0e2c5ca0-d713-4f95-a2c0-c369a7246607
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707298045149	Marionette	INFO	Stopped listening on port 63481
+Dynamically enable window occlusion 1
+1707298048744	geckodriver	INFO	Listening on 127.0.0.1:63526
+1707298051794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofilejWzxAt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707298052164	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707298052305	Marionette	INFO	Listening on port 63534
+Read port: 63534
+WebDriver BiDi listening on ws://127.0.0.1:63527
+1707298052415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:63527/devtools/browser/22d84763-4f0e-44f9-bd6c-4ede95aae9d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707298065010	Marionette	INFO	Stopped listening on port 63534
+Dynamically enable window occlusion 1
+1707298068588	geckodriver	INFO	Listening on 127.0.0.1:63579
+1707298071628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofilesfJC5m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707298072207	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707298072430	Marionette	INFO	Listening on port 63587
+WebDriver BiDi listening on ws://127.0.0.1:63580
+Read port: 63587
+1707298072630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:63580/devtools/browser/d5fba55a-4fef-4b4b-87fc-318b6c12ad82
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707298079941	Marionette	INFO	Stopped listening on port 63587
+Dynamically enable window occlusion 1
+1707298083483	geckodriver	INFO	Listening on 127.0.0.1:63629
+1707298086539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofileD17W8Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707298086969	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707298087186	Marionette	INFO	Listening on port 63637
+WebDriver BiDi listening on ws://127.0.0.1:63630
+Read port: 63637
+1707298087516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:63630/devtools/browser/57aa18d7-5e1e-4a1c-8896-bb3360ca968c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707298101213	Marionette	INFO	Stopped listening on port 63637
+Dynamically enable window occlusion 1
+1707298104898	geckodriver	INFO	Listening on 127.0.0.1:63677
+1707298107956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63678" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofilegskeMr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707298108539	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707298108757	Marionette	INFO	Listening on port 63685
+WebDriver BiDi listening on ws://127.0.0.1:63678
+Read port: 63685
+1707298108934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:63678/devtools/browser/56d9d2e9-4ed0-4fe7-8502-59b095952d47
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707298122865	Marionette	INFO	Stopped listening on port 63685
+Dynamically enable window occlusion 1
+1707298126391	geckodriver	INFO	Listening on 127.0.0.1:63726
+1707298129443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\SystemTemp\\rust_mozprofile9Mu7Ny"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707298130035	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707298130231	Marionette	INFO	Listening on port 63734
+WebDriver BiDi listening on ws://127.0.0.1:63727
+Read port: 63734
+1707298130438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+JavaScript error: resource://gre/modules/WindowsLaunchOnLogin.sys.mjs, line 28: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowsRegKey.open]
+DevTools listening on ws://127.0.0.1:63727/devtools/browser/3912cfde-e29a-481f-bc71-24464c9d2c1c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1707298144630	Marionette	INFO	Stopped listening on port 63734
+Dynamically enable window occlusion 1
