@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
+from selenium.webdriver.support.wait import WebDriverWait
 
 
 class AddCustomerClass:
@@ -15,11 +16,8 @@ class AddCustomerClass:
     Calendar_Xpath = "//input[@id='DateOfBirth']"
     Text_Company_Name_Xpath = "//input[@id='Company']"
     CheckBox_Tax_Xpath = "//input[@id='Company']"
-    # Click_Newsletter_Xpath = "/html/body/div[3]/div[1]/form/section/div/div/nop-cards/nop-card/div/div[2]/div[9]/div[2]/div/div[1]/div/div"
-    # Click_Newsletter_Xpath = "/html[1]/body[1]/div[3]/div[1]/form[1]/section[1]/div[1]/div[1]/nop-cards[1]/nop-card[1]/div[1]/div[2]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]"
-    Click_Newsletter_Xpath ="/html/body/div[3]/div[1]/form/section/div/div/nop-cards/nop-card/div/div[2]/div[10]/div[2]/div/div[1]/div/div"
-
-    Click_Newsletter_list_Xpath = "//li[normalize-space()='Test store 2']"
+    Click_Newsletter_Xpath = "/html/body/div[3]/div[1]/form/section/div/div/nop-cards/nop-card/div/div[2]/div[9]/div[2]/div/div[1]/div/div"
+    Click_Newsletter_list_Xpath ="//li[normalize-space()='Test store 2']"
     DropDown_Manage_Vendor_Xpath = "//*[@id='VendorId']"
     CheckBox_Active_Xpath = "//input[@id='Active']"
     Text_comment_Xpath = "//textarea[@id='AdminComment']"
@@ -28,6 +26,8 @@ class AddCustomerClass:
 
     def __init__(self, driver):
         self.driver = driver
+        self.wait = WebDriverWait(self.driver, 3) # task poll frequency # default poll frequency
+        # total 10... if the element visible in 3 sec then it will not take complete 10 sec for next operation
 
     def Click_Customers_Menu(self):
         self.driver.find_element(By.XPATH, self.Click_Customer_menu_Xpath).click()
